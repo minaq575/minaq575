@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges">
-  <h> ช่องยูทูปหลัก <h>
+  <h1> ช่องยูทูปหลัก <h1>
   <a href="https://www.youtube.com/channel/UClao13CbAWzXWUtXDRxu0-g">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
