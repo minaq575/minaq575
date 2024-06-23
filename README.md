@@ -4,9 +4,11 @@
 </div>
 
 <div id="badges">
+  <h> ช่องยูทูปหลัก <h>
   <a href="https://www.youtube.com/channel/UClao13CbAWzXWUtXDRxu0-g">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <h1> ช่องเขียนโค้ดส่งการบ้าน <h1>
   <a href="https://www.youtube.com/channel/UC2SSqn12hL5T9FlWfLeTByA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
